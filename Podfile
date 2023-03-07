@@ -9,7 +9,7 @@ target 'Test' do
     pod 'SVPullToRefresh', '0.4.1'
     pod 'SVProgressHUD', '2.2.5', :modular_headers => true
     pod 'Dropbox-iOS-Dropins-SDK', '1.2.1'
-    pod 'AWSCore', '2.19.1'
+    pod 'AWSCore', '2.30.4'
     pod 'AWSS3', '2.19.1'
     pod 'AWSCognito', '2.19.1'
     pod 'MGSwipeTableCell', '1.6.14'
