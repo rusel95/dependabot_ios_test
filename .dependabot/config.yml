@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "cocoapods"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    notifications:
+      slack:
+        rooms:
+          - "dependabot-ios"
