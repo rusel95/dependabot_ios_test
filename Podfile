@@ -22,7 +22,7 @@ target 'Test' do
     pod 'FirebaseCore', '10.5.0', :modular_headers => true
     pod 'FirebaseDatabase', '10.5.0'
     pod 'FirebaseAuth', '10.5.0', :modular_headers => true
-    pod 'FirebaseAnalytics', '10.5.0'
+    pod 'FirebaseAnalytics', '10.6.0'
     pod 'FirebaseRemoteConfig', '10.5.0', :modular_headers => true
     pod 'FirebaseMessaging', '10.5.0'
     pod 'FirebaseCrashlytics', '10.5.0'
