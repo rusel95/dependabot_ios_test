@@ -18,7 +18,7 @@ target 'Test' do
     pod 'AppAuth', '1.6'
     pod 'GoogleAPIClientForREST/Drive', '3.0.0'
     pod 'GTMAppAuth', '2.0.0'
-    pod 'Firebase', '10.5.0'
+    pod 'Firebase', '10.6.0'
     pod 'FirebaseCore', '10.5.0', :modular_headers => true
     pod 'FirebaseDatabase', '10.5.0'
     pod 'FirebaseAuth', '10.5.0', :modular_headers => true
