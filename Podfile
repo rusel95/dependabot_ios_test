@@ -10,7 +10,7 @@ target 'Test' do
     pod 'SVProgressHUD', '2.2.5', :modular_headers => true
     pod 'Dropbox-iOS-Dropins-SDK', '1.2.1'
     pod 'AWSCore', '2.19.1'
-    pod 'AWSS3', '2.19.1'
+    pod 'AWSS3', '2.30.4'
     pod 'AWSCognito', '2.19.1'
     pod 'MGSwipeTableCell', '1.6.14'
     pod 'HPGrowingTextView', '1.1'
