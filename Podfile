@@ -24,7 +24,7 @@ target 'Test' do
     pod 'FirebaseAuth', '10.5.0', :modular_headers => true
     pod 'FirebaseAnalytics', '10.5.0'
     pod 'FirebaseRemoteConfig', '10.5.0', :modular_headers => true
-    pod 'FirebaseMessaging', '10.5.0'
+    pod 'FirebaseMessaging', '10.6.0'
     pod 'FirebaseCrashlytics', '10.5.0'
     pod 'FirebaseInstallations', '10.5.0'
     pod 'GoogleUtilities', '7.11.0', :modular_headers => true
