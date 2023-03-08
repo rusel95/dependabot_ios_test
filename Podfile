@@ -26,7 +26,7 @@ target 'Test' do
     pod 'FirebaseRemoteConfig', '10.5.0', :modular_headers => true
     pod 'FirebaseMessaging', '10.5.0'
     pod 'FirebaseCrashlytics', '10.5.0'
-    pod 'FirebaseInstallations', '10.5.0'
+    pod 'FirebaseInstallations', '10.6.0'
     pod 'GoogleUtilities', '7.11.0', :modular_headers => true
     pod 'AppsFlyerFramework', '6.9.2' # DEPRECATED
     pod 'Alamofire', '~> 4.9.0' # Need a number of refactoring to update to latest version
