@@ -20,7 +20,7 @@ target 'Test' do
     pod 'GTMAppAuth', '2.0.0'
     pod 'Firebase', '10.5.0'
     pod 'FirebaseCore', '10.5.0', :modular_headers => true
-    pod 'FirebaseDatabase', '10.5.0'
+    pod 'FirebaseDatabase', '10.6.0'
     pod 'FirebaseAuth', '10.5.0', :modular_headers => true
     pod 'FirebaseAnalytics', '10.5.0'
     pod 'FirebaseRemoteConfig', '10.5.0', :modular_headers => true
