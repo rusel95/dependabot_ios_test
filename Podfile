@@ -29,7 +29,7 @@ target 'Test' do
     pod 'FirebaseInstallations', '10.5.0'
     pod 'GoogleUtilities', '7.11.0', :modular_headers => true
     pod 'AppsFlyerFramework', '6.9.2' # DEPRECATED
-    pod 'Alamofire', '~> 4.9.0' # Need a number of refactoring to update to latest version
+    pod 'Alamofire', '~> 5.6.0' # Need a number of refactoring to update to latest version
     pod 'AlamofireImage', '~> 3.6.0'
     pod 'ObjectMapper', '4.2.0'
     pod 'Bond', '7.8.1' # Have to removed in favour of Combine
